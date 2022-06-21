@@ -1,0 +1,6 @@
+En la parte de liciencias contra robots de la página scrapeada, solo se encontró lo siguiente:
+
+User-agent: *
+
+Disallow: /eyeblaster
+Disallow: /addineyeV2.html 

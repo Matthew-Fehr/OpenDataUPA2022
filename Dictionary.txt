@@ -1,0 +1,4 @@
+Columnas del archivo comprasparaguai_celulares.csv:
+
+Celulares 	= Nombre y características principal del celular
+Precio 		= El precio mínimo correspondiente al ítem.
